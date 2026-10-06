@@ -36,13 +36,13 @@ This tutorial gives you **TODOs, hints and checkpoints — not solutions.** You 
 
 | File | What it's for |
 |---|---|
-| [PROGRESS.md](PROGRESS.md) | Your checklist. Tick boxes as you go; the tutor reads it. |
-| [RESEARCH.md](RESEARCH.md) | The 11 papers behind this project: key idea, where it appears in the code, what to read. |
-| [00-setup-and-eliza.md](00-setup-and-eliza.md) | Recap of what you've built + housekeeping. |
-| [01-bpe-tokenizer.md](01-bpe-tokenizer.md) | Byte Pair Encoding from scratch. |
-| [02-xor-neural-net.md](02-xor-neural-net.md) | Perceptron vs. multi-layer net + backprop. |
-| [03-word-embeddings.md](03-word-embeddings.md) | Word2Vec Skip-gram with negative sampling. |
-| [04-transformer.md](04-transformer.md) | Decoder-only transformer, backward pass, Adam, sampling. |
+| [PROGRESS.md](docs/tutorial/PROGRESS.md) | Your checklist. Tick boxes as you go; the tutor reads it. |
+| [RESEARCH.md](docs/tutorial/RESEARCH.md) | The 11 papers behind this project: key idea, where it appears in the code, what to read. |
+| [00-setup-and-eliza.md](docs/tutorial/00-setup-and-eliza.md) | Recap of what you've built + housekeeping. |
+| [01-bpe-tokenizer.md](docs/tutorial/01-bpe-tokenizer.md) | Byte Pair Encoding from scratch. |
+| [02-xor-neural-net.md](docs/tutorial/02-xor-neural-net.md) | Perceptron vs. multi-layer net + backprop. |
+| [03-word-embeddings.md](docs/tutorial/03-word-embeddings.md) | Word2Vec Skip-gram with negative sampling. |
+| [04-transformer.md](docs/tutorial/04-transformer.md) | Decoder-only transformer, backward pass, Adam, sampling. |
 
 ## Using the tutor agent
 
